@@ -23,16 +23,3 @@ The Repo has being marked as the **Excluded Project** if you still wanna make PR
 ###### ⚡  You can star ⭐ and fork 🍽️ this repository on GitHub by navigating at the top of this repository.
 ###### ⚡  GitHub repository URLs will reference both the username associated with the owner of the repository, as well as the repository name.
 ###### ⚡  When you’re on the main page for the repository, you’ll see a button to "Star" and “Fork” the repository on your upper right-hand side of the page, underneath your user icon.
-
-<h2 align="center">😎🙏 Thanks to Our Awesome Contributors 🙏😎</h2>
-<a href="https://github.com/manjunani/HacktoberFest_2021/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=manjunani/HacktoberFest_2021" />
-</a>  
-
-## Feedback
-
-If you have any feedback please reach out to me on [LinkedIn](https://www.linkedin.com/in/manjunathasai/). 
-
-
-
-
